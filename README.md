@@ -1,4 +1,4 @@
-![Java CI with Maven]([![Java CI with Maven](https://github.com/Jaswithadabbiru/payment-gateway/actions/workflows/maven.yml/badge.svg)](https://github.com/Jaswithadabbiru/payment-gateway/actions/workflows/maven.yml))
+[![Java CI with Maven](https://github.com/Jaswithadabbiru/payment-gateway/actions/workflows/maven.yml/badge.svg)](https://github.com/Jaswithadabbiru/payment-gateway/actions/workflows/maven.yml)
 # High-Availability Payment Gateway
 
 A production-style backend payment gateway built using Spring Boot and PostgreSQL, designed with resiliency, transactional integrity, and CI/CD automation.
